@@ -1,57 +1,73 @@
-Weathercast Using Python and Django 
-*Weather Bug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
+# 🌦️ WeatherCast – Using Python & Django
 
+*WeatherCast (Weather Bug) is a web application that uses science and technology to predict atmospheric conditions for a given location and time. With this app, you can get real-time weather forecasts anytime, anywhere.*  
 
--->
+---
 
-## Requirements
-1.  Python 3+
-2.  Django 3+
+## ⭐ Features
+- 🌍 Real-time weather updates  
+- 📡 Accurate weather forecasting  
+- ⚡ Fast and responsive UI  
+- 📱 User-friendly interface
 
-## Setup, Installation and Run
+---
 
-To run the app on your local machine, you need Python 3+, installed on your computer. Follow all the steps to run this project.
-   
-1.  Create `venv` virtual environment:
-```bash
-pip install venv virtual_env_name
-```
-    
-2.  Activate `venv` virtual environment:
-```bash
-source virtual_env_name/Scripts/activate
-```
+## 📌 Requirements
+- Python **3+**
+- Django **3+**
 
+---
 
-```
+## ⚙️ Setup, Installation & Run
 
-4. Then enter the corresponding directory:
-```bash
-cd Weather_App--Python-Django
-```
-    
-5. Install all the requirements using pip:
-```bash
-pip install -r requirements.txt
-``` 
+To run the app on your local machine, you need **Python 3+** installed on your computer.  
 
-6.	Run server:
-```bash
-python manage.py runserver
-```
+Follow these steps:
 
-# Tools
-## Front-end Part
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-## Back-end
-* Django
-* SQLite 3
+1. **Create `venv` virtual environment**
+    ```bash
+    pip install venv virtual_env_name
+    ```
 
-# Screenshots of the Project
-<p align="center">
+2. **Activate `venv` virtual environment**
+    ```bash
+    source virtual_env_name/Scripts/activate
+    ```
+
+3. **Enter the project directory**
+    ```bash
+    cd Weather_App--Python-Django
+    ```
+
+4. **Install all dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. **Run the server**
+    ```bash
+    python manage.py runserver
+    ```
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🎨 Frontend
+- HTML  
+- CSS  
+- Bootstrap  
+- JavaScript  
+
+### 🖥️ Backend
+- Django  
+- SQLite3  
+
+---
+
+## 📷 Screenshots of the Project
+
+ <p align="center">
   <img width="660" height="300" src="static/ss/a.png">
   <img width="660" height="300" src="static/ss/b.png">
 </p>
